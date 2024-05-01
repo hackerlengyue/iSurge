@@ -85,3 +85,5 @@ CA证书，首先点击**生成新证书**，然后将**证书安装到系统**�
 检查信息IP和DNS是否有误，无问题点击**完成**即可。
 
 <img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/4b529ec3-734d-4f48-97df-7ad14a7324a9">
+
+最后，让所有联网的设备断开wifi或有线，重新链接就可在Surge的设备选项中看到，其他设置需求可以根据自己实际情况配置修改。
