@@ -73,4 +73,15 @@ CA证书，首先点击**生成新证书**，然后将**证书安装到系统**�
 
 #### 3.2.3 开启代理
 打开 **活动** ，打开 **系统代理** 和 **增强模式**
+
 <img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/27a7fda0-240a-4c7f-9ee0-2b48b475b8fc">
+
+#### 3.2.3 开启DHCP服务
+
+打开 **设备**  ，开启**DHCP服务器** 
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/5787b980-7ab7-4ba5-be26-0d2571a7b193">
+
+检查信息IP和DNS是否有误，无问题点击**完成**即可。
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/4b529ec3-734d-4f48-97df-7ad14a7324a9">
