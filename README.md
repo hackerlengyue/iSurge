@@ -41,6 +41,8 @@
 
 ### 3.2 Surge配置
 
+#### 3.2.1 配置文件准备
+
 打开Surge，软件中有一个默认的配置文件，我们需要先增一个配置文件.
 
 配置文件可以使用这个：[Surge配置文件](https://github.com/hackerlengyue/iSurge/blob/79bea741115170eeed089c32e84025254af0bb93/conf/anan.conf)
@@ -57,8 +59,18 @@
 
 <img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/4ff2720e-f772-42b2-8142-c17b8fb32aeb">
 
-修改dns-server = 为你的运营商DNS，也就是上面复制出来的。
+修改dns-server = 为你的运营商DNS，也就是上面复制出来的。然后保存。
 
 <img width="646" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/f578fbfe-c539-4d54-bc42-9e9a305ed13f">
 
+#### 3.2.2 证书准备
 
+点击 **解密** ，打开**HTTPS解密** ，**选项**中**三项**也要勾选。
+
+CA证书，首先点击**生成新证书**，然后将**证书安装到系统**。并且信任证书！
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/c6e1379f-d9dd-470a-900b-dfe72eef92c7">
+
+#### 3.2.3 开启代理
+打开 **活动** ，打开 **系统代理** 和 **增强模式**
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/27a7fda0-240a-4c7f-9ee0-2b48b475b8fc">
