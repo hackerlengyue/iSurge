@@ -39,3 +39,12 @@
 
 <img width="1440" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/61503363-8113-4fd8-aa56-b3779069a22c">
 
+### 3.2 Surge配置
+
+打开Surge，软件中有一个默认的配置文件，我们需要先增一个配置文件.
+
+配置文件可以使用这个：[Surge配置文件](https://github.com/hackerlengyue/iSurge/blob/79bea741115170eeed089c32e84025254af0bb93/conf/anan.conf)
+
+
+
+
