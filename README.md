@@ -86,4 +86,9 @@ CA证书，首先点击**生成新证书**，然后将**证书安装到系统**�
 
 <img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/4b529ec3-734d-4f48-97df-7ad14a7324a9">
 
+点击下面的小齿轮，然后勾选 **将Surge自动作为新设备的网关**
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/c3ce6bda-cd3c-43b1-8fa1-27d5c7c3ff9f">
+
+
 最后，让所有联网的设备断开wifi或有线，重新链接就可在Surge的设备选项中看到，其他设置需求可以根据自己实际情况配置修改。
