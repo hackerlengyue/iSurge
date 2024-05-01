@@ -45,6 +45,12 @@
 
 配置文件可以使用这个：[Surge配置文件](https://github.com/hackerlengyue/iSurge/blob/79bea741115170eeed089c32e84025254af0bb93/conf/anan.conf)
 
+点击 **更多-配置**
 
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/131bd276-3fc1-4b34-bec2-0ce2be81383a">
+
+点击 **导入** ，将下载的[Surge配置文件](https://github.com/hackerlengyue/iSurge/blob/79bea741115170eeed089c32e84025254af0bb93/conf/anan.conf)加载进去。
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/78daf790-37f0-48a4-a6da-1136f7fa2f59">
 
 
