@@ -53,4 +53,12 @@
 
 <img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/78daf790-37f0-48a4-a6da-1136f7fa2f59">
 
+选中新增加的CONF配置，右键 **在文本编辑器中编辑**
+
+<img width="984" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/4ff2720e-f772-42b2-8142-c17b8fb32aeb">
+
+修改dns-server = 为你的运营商DNS，也就是上面复制出来的。
+
+<img width="646" alt="image" src="https://github.com/hackerlengyue/iSurge/assets/59858726/f578fbfe-c539-4d54-bc42-9e9a305ed13f">
+
 
